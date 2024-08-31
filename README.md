@@ -61,6 +61,7 @@ Different text truncation and chunking strategies are crucial for ensuring that 
 
 <details>
 <summary><b><font size="+1">Padding and Truncation</font></b></summary>
+
 Below is the [Hugging Face - Padding and Truncation](https://huggingface.co/docs/transformers/en/pad_truncation) reference table.
 
 | Truncation                               | Padding                             | Instruction                                                                                           |
