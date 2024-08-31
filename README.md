@@ -26,6 +26,7 @@ Welcome to the **NLP Essentials with Hugging Face** repository! 🎉 This reposi
 
 <h1 id="getting-started">🚀 Getting Started</h1>
 This repository is designed to be a go-to resource for anyone looking to:
+
 - **Work with Hugging Face Datasets**: Learn how to load, manipulate, and utilize datasets effectively.
 - **Leverage Tokenizers**: Explore different tokenization strategies and how to implement them in your projects.
 - **Implement Data Collators**: Understand how to use data collators for different data chunking strategies.
