@@ -24,8 +24,7 @@
 
 Welcome to the **NLP Essentials with Hugging Face** repository! 🎉 This repository is a collection of useful examples and notebooks to help you get the most out of the Hugging Face ecosystem, including `datasets`, `tokenizers`, `collators`, and various NLP models.
 
-# 🚀 Getting Started
-
+<h1 id="getting-started">🚀 Getting Started</h1>
 This repository is designed to be a go-to resource for anyone looking to:
 - **Work with Hugging Face Datasets**: Learn how to load, manipulate, and utilize datasets effectively.
 - **Leverage Tokenizers**: Explore different tokenization strategies and how to implement them in your projects.
@@ -33,18 +32,17 @@ This repository is designed to be a go-to resource for anyone looking to:
 - **Develop NLP Applications**: Discover how to implement NLP models for tasks such as Named Entity Recognition (NER), Question Answering, and more.
 
 
-
-# 📚 Example Notebooks
+<h1 id="example-notebooks">📚 Example Notebooks</h1>
 
 ## Preprocessing: Datasets, Tokenizers, and Collation
 
 Learn how to load, process, and tokenize datasets using Hugging Face’s datasets and transformers libraries. Explore different data collation strategies, including padding and truncation, to prepare batches for training.
 
-**1) [Jupyter Notebook - tokenizer-three-approaches](./notebooks/tokenizer-three-approaches.ipynb)**: This notebook provides a walkthrough of chunking and splitting text with a Hugging Face tokenizer. 
+**1) [Notebook | tokenizer-three-approaches](./notebooks/tokenizer-three-approaches.ipynb)**: This notebook provides a walkthrough of chunking and splitting text with a Hugging Face tokenizer. 
 
-**2) [Jupyter Notebook - tokenizer-three-approaches-with-chat-template](./notebooks/tokenizer-three-approaches-with-chat-template.ipynb)**: This notebook provides a walkthrough of chunking and splitting text with a Hugging Face tokenizer using a [Chat Template](https://huggingface.co/docs/transformers/main/en/chat_templating).  
+**2) [Notebook | tokenizer-three-approaches-with-chat-template](./notebooks/tokenizer-three-approaches-with-chat-template.ipynb)**: This notebook provides a walkthrough of chunking and splitting text with a Hugging Face tokenizer using a [Chat Template](https://huggingface.co/docs/transformers/main/en/chat_templating).  
 
-**3) [Jupyter Notebookt - dataset-collator](./notebooks/dataset-collator.ipynbipynb)**: This notebook demonstrates how to effectively utilize a [data collator](https://huggingface.co/docs/transformers/en/main_classes/data_collator) to prepare inputs for a model. 
+**3) [Notebook | dataset-collator](./notebooks/dataset-collator.ipynbipynb)**: This notebook demonstrates how to effectively utilize a [data collator](https://huggingface.co/docs/transformers/en/main_classes/data_collator) to prepare inputs for a model. 
 
 
 ### Text Chunking Strategies:
@@ -82,12 +80,10 @@ Below is the [Hugging Face - Padding and Truncation](https://huggingface.co/docs
 </details>
 
 
-## 🌟 Contributions
-
+<h1 id="contributions">🌟 Contributions</h1>
 Contributions are welcome! If you have a tip, trick, or notebook that you think would be valuable to the community, feel free to submit a pull request or open an issue.
 
-## ✉️ Contact
-
+<h1 id="contact">✉️ Contact</h1>
 If you have any questions, suggestions, or feedback, feel free to reach out by opening an issue.
 
 Happy coding! 🛠️
