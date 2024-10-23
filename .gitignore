@@ -131,3 +131,6 @@ data/
 
 # WandB Logs
 wandb/
+
+# Results directory
+results/
